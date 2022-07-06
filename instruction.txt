@@ -1,0 +1,5 @@
+make changes to data.txt
+run node .
+push to git
+run node makeqr
+images folder has qrcode with hash
